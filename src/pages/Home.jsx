@@ -40,7 +40,7 @@ function Home() {
 
       <section className="section">
         <div className="section-header">
-          <h2>Why Choose Dunder Mithlin?</h2>
+          <h2>Why Choose Dunder Mifflin?</h2>
           <p>We put the &ldquo;fun&rdquo; in &ldquo;fundamental business supplies.&rdquo;</p>
         </div>
         <div className="features-grid">

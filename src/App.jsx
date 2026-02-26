@@ -13,7 +13,7 @@ function App() {
         <Route path="/team" element={<Team />} />
       </Routes>
       <footer className="footer">
-        <strong>Dunder Mithlin Paper Company, Inc.</strong> &mdash; 1725 Slough Avenue, Scranton, PA 18505
+        <strong>Dunder Mifflin Paper Company, Inc.</strong> &mdash; 1725 Slough Avenue, Scranton, PA 18505
       </footer>
     </BrowserRouter>
   )

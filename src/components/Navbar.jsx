@@ -8,7 +8,7 @@ function Navbar() {
       <div className="navbar-inner">
         <Link to="/" className="navbar-brand">
           <div className="navbar-logo">DM</div>
-          Dunder Mithlin
+          Dunder Mifflin
         </Link>
         <div className="navbar-links">
           <Link to="/" className={pathname === '/' ? 'active' : ''}>Home</Link>
