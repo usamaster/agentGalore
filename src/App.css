@@ -385,6 +385,35 @@
   flex-shrink: 0;
 }
 
+.avatar-photo {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top;
+  margin-bottom: 1rem;
+  flex-shrink: 0;
+  border: 3px solid var(--gray-200);
+  transition: border-color 0.25s, transform 0.25s;
+}
+
+.team-card:hover .avatar-photo {
+  border-color: var(--blue-400);
+  transform: scale(1.05);
+}
+
+.team-card.featured .avatar-photo {
+  border-color: var(--gold);
+  width: 104px;
+  height: 104px;
+  border-width: 3px;
+  border-radius: 16px;
+}
+
+.team-card.featured:hover .avatar-photo {
+  border-color: var(--gold-light);
+}
+
 .team-card h3 {
   font-size: 1.05rem;
   font-weight: 700;
