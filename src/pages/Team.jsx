@@ -51,7 +51,7 @@ const departments = [
       {
         name: 'Aris Arsen Kashari',
         title: 'Chief Vibes Officer & International Paper Diplomat',
-        photo: '/team/aris-kashari.svg',
+        photo: '/team/aris-kashari.jpg',
         quote: "I came from LinkedIn. I have no idea what's going on, but the paper is excellent.",
         featured: true,
         linkedin: 'https://nl.linkedin.com/in/aris-arsen-kashari-1755a363',
