@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 295" fill="none">
+  <rect width="210" height="295" rx="8" fill="#c9a84c"/>
+  <rect x="1" y="1" width="208" height="293" rx="7" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="210" y2="295" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1a3c6e"/>
+      <stop offset="1" stop-color="#0c2340"/>
+    </linearGradient>
+  </defs>
+  <circle cx="105" cy="105" r="50" fill="#c9a84c" opacity="0.15"/>
+  <circle cx="105" cy="90" r="28" fill="#c9a84c"/>
+  <path d="M55 155c0-27.6 22.4-40 50-40s50 12.4 50 40" fill="#c9a84c"/>
+  <text x="105" y="200" text-anchor="middle" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#c9a84c">ARIS</text>
+  <text x="105" y="224" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="rgba(201,168,76,0.6)">International Division</text>
+  <text x="105" y="270" text-anchor="middle" font-family="monospace" font-size="9" fill="rgba(201,168,76,0.4)">linkedin verified</text>
+  <rect x="80" y="254" width="50" height="0.5" fill="rgba(201,168,76,0.2)"/>
+</svg>
